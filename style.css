@@ -1,0 +1,23 @@
+#title{
+    color: crimson;
+    font-size: 20px;
+    padding: 10px;
+    width: 400px;
+    box-shadow: darkgray;
+}
+
+#setup{
+    padding: 10px;
+    font-size: 15px;
+    width: 400px;
+    box-shadow: darkgray;
+    background-color: bisque;
+}
+
+#punchline{
+    padding: 10px;
+    font-size: 15px;
+    width: 400px;
+    box-shadow: darkgray;
+    background-color: gainsboro;
+}
